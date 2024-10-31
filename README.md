@@ -1,13 +1,13 @@
 ## Velvet v3 is a curved, compact mechanical keyboard with a 40% layout size  
 *Minimalist, compact, elegant - there is nothing superfluous in it, only the necessary set of elements to know yourself and the harmony of your own world...*
 
-[Velvet v3](images/01.jpg)
+![Velvet v3](images/01.jpg)
 
 ## Design philosphy
 This keyboard [was made](https://www.youtube.com/watch?v=800tXbrIh_E) with FDM printing in mind, the goal was to make a perfect curved case that can be easily printed and looks aesthetically pleasing with minimal amount of so called "steps" that plague similar 3D keyboards like Dactyl Manuform. This is mostly inspired by the Cygnus, Smudge and Chonky Bois keyboards, we wanted to make a similar "organic" shaped keyboard but much more optimized for FDM printing, easy assembly and looking good not only on a photo but also in real life 😎
 
-[Velvet v3](images/02.jpg)
-[Velvet v3](images/03.jpg)
+![Velvet v3](images/02.jpg)
+![Velvet v3](images/03.jpg)
 
 
 ## Features
@@ -19,7 +19,7 @@ This keyboard [was made](https://www.youtube.com/watch?v=800tXbrIh_E) with FDM p
 - Type-C output for connection between halves
 - Easily remap any key and customize your keyboard with [Vial](https://get.vial.today/) 
 - [Firmware](https://github.com/ergohaven/keymap_hub) is being constantly updated, get the latest QMK features for your keyboard from us ♥️
-[Velvet v3](images/04.png)
+![Velvet v3](images/04.png)
 
 ## This repo contains all files related to this keyboard
 PCB and schematic can be found [here](https://oshwlab.com/yuriiq/velvet_v3)
