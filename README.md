@@ -20,8 +20,16 @@ This keyboard was made with FDM printing in mind, the goal was to make a perfect
 - Easily remap any key and customize your keyboard with [Vial](https://get.vial.today/) 
 - [Firmware](https://github.com/ergohaven/keymap_hub) is being constantly updated, get the latest QMK features for your keyboard from us ♥️
 
-### This repo contains all files related to this keyboard
+## This repo contains all files related to this keyboard
 PCB and schematic can be found [here](https://oshwlab.com/yuriiq/velvet_v3)
+### BOM
+- 2 RP Zero MCU 
+- 46 MX Hotswap sockets
+- 46 1N4148W Diodes (SOD-123)
+- 2 Connector pins male (11 Pins, 2.54mm)
+- 2 Connector pins female (2.54mm)
+- 4 10kOhm resistors (0805)
+- USB Type-C daughterboard (1mm or 1.6mm thick)
 
 ## License 
 
