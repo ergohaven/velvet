@@ -18,7 +18,8 @@ This keyboard [was made](https://www.youtube.com/watch?v=800tXbrIh_E) with FDM p
 - Hotswappable PCB
 - Type-C output for connection between halves
 - Easily remap any key and customize your keyboard with [Vial](https://get.vial.today/) 
-- [Firmware](https://github.com/ergohaven/keymap_hub) is being constantly updated, get the latest QMK features for your keyboard from us ♥️
+- [Firmware](https://github.com/ergohaven/keymap_hub) is being constantly updated, get the latest QMK features for your keyboard from us ♥️  
+
 ![Velvet v3](images/04.png)
 
 ## This repo contains all files related to this keyboard
