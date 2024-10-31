@@ -41,3 +41,6 @@ The files in this repository are licensed under a Creative Commons Attribution-N
 
 [1]: https://github.com/ergohaven/keymap_hub
 [2]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
+
+## Availability
+The complete keyboard (not a diy kit) is available for purchase at ergohaven.xyz  
