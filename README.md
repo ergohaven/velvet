@@ -8,7 +8,7 @@ This keyboard [was made](https://www.youtube.com/watch?v=800tXbrIh_E) with FDM p
 
 ![Velvet v3](images/02.jpg)
 ![Velvet v3](images/03.jpg)
-![Velvet v3](images/04.jpg)
+![Velvet v3](images/04.png)
 
 
 ## Features
