@@ -14,7 +14,7 @@ This keyboard [was made](https://www.youtube.com/watch?v=800tXbrIh_E) with FDM p
  
 - Ergonomic 3D design
 - 46 fully programmable keys, 15 additional layers for all your tasks
-- Powered by RP Zero and QMK firmware
+- Powered by RP2040 Zero and QMK firmware
 - Hotswappable PCB
 - Type-C output for connection between halves
 - Easily remap any key and customize your keyboard with [Vial](https://get.vial.today/) 
