@@ -9,6 +9,17 @@ This keyboard was made with FDM printing in mind, the goal was to make a perfect
 ![Velvet v3](images/02.jpg)
 ![Velvet v3](images/03.jpg)
 
+
+## Features
+ 
+- Ergonomic 3D design
+- 46 fully programmable keys, 15 additional layers for all your tasks
+- Powered by RP Zero and QMK firmware
+- Hotswappable PCB
+- Type-C output for connection between halves
+- Easily remap any key and customize your keyboard with [Vial](https://get.vial.today/) 
+- [Firmware](https://github.com/ergohaven/keymap_hub) is being constantly updated, get the latest QMK features for your keyboard from us ♥️
+
 ### This repo contains all files related to this keyboard
 PCB and schematic can be found [here](https://oshwlab.com/yuriiq/velvet_v3)
 
