@@ -25,7 +25,7 @@ This keyboard [was made](https://www.youtube.com/watch?v=800tXbrIh_E) with FDM p
 ## This repo contains all files related to this keyboard
 PCB and schematic can be found [here](https://oshwlab.com/yuriiq/velvet_v3)
 ### BOM
-- 2 RP Zero MCU 
+- 2 RP2040 Zero MCU 
 - 46 MX Hotswap sockets
 - 46 1N4148W Diodes (SOD-123)
 - 2 Male Pin Header Connector: 11 Pins, 2.54mm, 90 degree [(example)](https://aliexpress.ru/item/1005005614848270.html)
