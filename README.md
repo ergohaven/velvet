@@ -1,5 +1,5 @@
 ## Velvet v3 is a curved and compact mechanical keyboard with a 40% layout size  
-#### Elegant design and excellent ergonomics - the keyboard is designed specifically to meet your needs for productive, comfortable work at the PC and, of course, aesthetics
+*Minimalist, compact, elegant - there is nothing superfluous in it, only the necessary set of elements to know yourself and the harmony of your own world...*
 
 ![Velvet v3](images/01.jpg)
 
