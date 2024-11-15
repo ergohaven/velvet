@@ -24,6 +24,11 @@ This keyboard [was made](https://www.youtube.com/watch?v=800tXbrIh_E) with FDM p
 
 ## This repo contains all files related to this keyboard
 PCB and schematic can be found [here](https://oshwlab.com/yuriiq/velvet_v3)
+
+### Build guide
+- [English](https://github.com/ergohaven/velvet/blob/main/build_guide/build_guide_en.md)
+- [Russian](https://github.com/ergohaven/velvet/blob/main/build_guide/build_guide_ru.md)
+
 ### BOM
 - 2 RP2040 Zero MCU 
 - 46 MX Hotswap sockets
