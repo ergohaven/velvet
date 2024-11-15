@@ -2,8 +2,8 @@
 
 ## Components:
 
-- Switchplate PCB - 1 шт.
-- MCU Holder PCB - 1 шт.
+- Switchplate PCB - 1 pc.
+- MCU Holder PCB - 1 pc.
 - 3D printed case - 2 pcs. (right and left halves)
 - RP2040 Zero MCU - 2 pcs.
 - MX Hotswap Sockets - 46 pcs.
@@ -16,7 +16,7 @@
 - 10 pcs. M3x4 Inserts [(example)](https://aliexpress.ru/item/1005004290019650.html)
 - 10 pcs. M3x4 Screw [(example)](https://aliexpress.ru/item/1005005898007060.html)
 - Type-C to Type-C cable (for connecting halves)
-- 3M bumpons/Silicone legs - 8 шт. [(example)](https://aliexpress.ru/item/32912066603.html)
+- 3M bumpons/Silicone legs - 8 pcs. [(example)](https://aliexpress.ru/item/32912066603.html)
 - MX switches - 46 pcs.
 - Key caps - 46 pcs.
 
