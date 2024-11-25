@@ -2,8 +2,8 @@
 
 ## Components:
 
-- Switchplate PCB - 1 pc.
-- MCU Holder PCB - 1 pc.
+- Switchplate PCB (FR4, 0.8mm thickness) - 1 pc.
+- MCU Holder PCB (FR4 1mm thickness) - 1 pc.
 - 3D printed case - 2 pcs. (right and left halves)
 - RP2040 Zero MCU - 2 pcs.
 - MX Hotswap Sockets - 46 pcs.
